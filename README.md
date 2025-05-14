@@ -125,11 +125,13 @@ def visualize_denoising(model, loader, num_images=10):
 
 ### Model Summary
 
-![image](https://github.com/user-attachments/assets/e2f2a35f-1867-47b1-85fb-8ab897c14f36)
+![image](https://github.com/user-attachments/assets/841ce874-772b-41fc-9b01-417daa6bb8fd)
+
 
 ### Original vs Noisy Vs Reconstructed Image
 
-![image](https://github.com/user-attachments/assets/c3c0ed45-8bd5-4eae-bcb7-5301903d6f42)
+![image](https://github.com/user-attachments/assets/fde80a59-2b47-4b92-9b41-d221a1f7be1e)
+
 
 ## RESULT
 
